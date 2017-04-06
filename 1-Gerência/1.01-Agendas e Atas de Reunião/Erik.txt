@@ -7,3 +7,8 @@ Nome artefato: Erik.txt
 Nome do(a) autor(a) da alteração: Lucas Botosso
 Data da alteração: 06/04/2017
 Hora da alteração: 19:44:00
+
+Nome artefato: Erik.txt
+Nome do(a) autor(a) da alteração: Joao Pedro Salgado
+Data da alteração: 06/04/2017
+Hora da alteração: 19:49:00
