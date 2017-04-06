@@ -12,3 +12,8 @@ Nome artefato: Lucas.txt
 Nome do(a) autor(a) da alteração: Samuel Rocha Costa
 Data da alteração: 06/04/2017
 Hora da alteração: 20:40:00
+
+Nome artefato: Lucas.txt
+Nome do(a) autor(a) da alteração: Erik Jayme Sandes
+Data da alteração: 06/04/2017
+Hora da alteração: 20:44:00
