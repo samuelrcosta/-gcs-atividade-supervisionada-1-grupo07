@@ -1,0 +1,4 @@
+Nome artefato: AgendaEAtas.txt
+Nome do(a) autor(a) da alteração: João Pedro Salgado 
+Data da alteração: 06/04/2017
+Hora da alteração: 16:40:40
