@@ -2,3 +2,8 @@ Nome artefato: JoaoPedro.txt
 Nome do(a) autor(a): João Pedro Salgado 
 Data de criação: 06/04/2017
 Hora de criação: 18:40:40
+
+Nome artefato: JoaoPedro.txt
+Nome do(a) autor(a) da alteração: Lucas Botosso
+Data da alteração: 06/04/2017
+Hora da alteração: 19:44:00
