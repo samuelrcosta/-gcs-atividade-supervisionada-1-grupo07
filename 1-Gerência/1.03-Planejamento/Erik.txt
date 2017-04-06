@@ -12,3 +12,8 @@ Nome artefato: Erik.txt
 Nome do(a) autor(a) da alteração: Joao Pedro Salgado
 Data da alteração: 06/04/2017
 Hora da alteração: 19:49:00
+
+Nome artefato: Erik.txt
+Nome do(a) autor(a) da alteração: Samuel Rocha Costa
+Data da alteração: 06/04/2017
+Hora da alteração: 20:40:00
