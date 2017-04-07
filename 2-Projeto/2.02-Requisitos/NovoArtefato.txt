@@ -1,0 +1,6 @@
+Nome artefato: Samuel.txt
+Nome do(a) autor(a): Samuel Rocha Costa
+Data de criação: 06/04/2017
+Hora de criação: 21:35:00
+
+documento criado no ramo2
