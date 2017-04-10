@@ -1,4 +1,18 @@
 Nome artefato Erik.txt
 Nome do(a) autor(a) Erik Jayme Sandes
-Data de criação 06/04/2017
-Hora de criação 21:06:00
+Data de criaÃ§Ã£o 06/04/2017
+Hora de criaÃ§Ã£o 21:06:00
+
+
+Essas sÃ£o as novas linhas criadas no trunk do projeto.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
