@@ -1,6 +1,13 @@
 Nome artefato Erik.txt
 Nome do(a) autor(a) Erik Jayme Sandes
 Data de criação 06/04/2017
+Alterações no ramo2:
+Hora de criação 21:06:00 - Essa linha foi alterada segundo a tarefa 15
+
+
+Nova linha criada segundo a tarefa 15
+—————
+Alterações no trunk:
 Hora de criação 21:06:00
 
 
